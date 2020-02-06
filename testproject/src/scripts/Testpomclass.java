@@ -27,7 +27,7 @@ public class Testpomclass
 	{
 		Pomclass amaznn=new Pomclass(driver);
 		amaznn.set("iphone xr 64 gb yellow");
-		amaznn.click2();
+		amaznn.click();
 		amaznn.click2();
 		amaznn.getprice();
 }
@@ -51,7 +51,7 @@ public class Testpomclass
 	{
 		Pomclass amaznn=new Pomclass(driver);
 		amaznn.set("iphone xr 64 gb yellow");
-		amaznn.click2();
+		amaznn.click();
 		amaznn.click2();
 		amaznn.getprice();
 	}
